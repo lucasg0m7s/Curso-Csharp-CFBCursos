@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Documents\\Cursos\\Curso de c#\\Aulas\\Aula02\\Aula02.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Curso-Csharp-CFBCursos\\Aulas\\Aula02\\Aula02.csproj",
       "projectName": "Aula02",
-      "projectPath": "C:\\Users\\lucas\\Documents\\Cursos\\Curso de c#\\Aulas\\Aula02\\Aula02.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Curso-Csharp-CFBCursos\\Aulas\\Aula02\\Aula02.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Documents\\Cursos\\Curso de c#\\Aulas\\Aula02\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\GitHub_Projects\\Curso-Csharp-CFBCursos\\Aulas\\Aula02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
