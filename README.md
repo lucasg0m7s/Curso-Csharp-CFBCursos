@@ -1,2 +1,2 @@
 # Curso-Csharp-CFBCursos
- Curso de C# do canal CFB Cursos
+ Aulas práticas do Curso de C# do canal CFB Cursos
